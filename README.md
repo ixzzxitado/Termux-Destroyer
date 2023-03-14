@@ -10,7 +10,7 @@
 
 git clone https://github.com/ixzzxitado/Termux-Destroyer.git
 
-cd tvirus
+cd Termux-Destroyer
 
 chmod +x bash.sh
 
