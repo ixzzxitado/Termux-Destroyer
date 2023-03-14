@@ -8,7 +8,7 @@
 
 #Its simple(É simples)
 
-git clone https://github.com/ixzzxitado/tvirus.git
+git clone https://github.com/ixzzxitado/Termux-Destroyer.git
 
 cd tvirus
 
